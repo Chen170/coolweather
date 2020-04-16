@@ -4,7 +4,6 @@ import org.litepal.crud.LitePalSupport;
 
 /**县(区)
  * created by 李大辰
- * on 2020/4/16
  */
 public class County extends LitePalSupport {
 

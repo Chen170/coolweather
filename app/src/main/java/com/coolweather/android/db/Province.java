@@ -4,7 +4,6 @@ import org.litepal.crud.LitePalSupport;
 
 /**
  * created by 李大辰
- * on 2020/4/16
  */
 public class Province extends LitePalSupport {
 
